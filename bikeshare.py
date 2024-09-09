@@ -238,10 +238,3 @@ if __name__ == "__main__":
 	main()
 
 ## Update for part 3
-||||||| 34fb183
-	main()
-=======
-	main()
-
-## Update for part 3
->>>>>>> refactoring
